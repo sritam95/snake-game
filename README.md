@@ -1,0 +1,1 @@
+This is snake game created using turtle graphics and oops concept. Intermediate project for python learners.![Screenshot 2025-05-12 180304](https://github.com/user-attachments/assets/519a7c6d-4357-4c1b-aacd-aa2dd4cd58f7)
